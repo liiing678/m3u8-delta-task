@@ -15,3 +15,13 @@ local/
 .vscode/
 venv/
 pyvenv.cfg
+.venv/
+.venv-linux/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
